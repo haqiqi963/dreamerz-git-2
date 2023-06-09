@@ -8,5 +8,9 @@
 <body>
     <h1>Aura Cantik</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis eos saepe, illum molestiae, distinctio quaerat labore ad perferendis magni eveniet atque, pariatur velit omnis sint magnam iure. Non, amet nisi.</p>
+    <ul>
+        <li>hehe</li>
+        <li>haha</li>
+    </ul>
 </body>
 </html>
